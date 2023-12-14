@@ -13,7 +13,9 @@ body {
   background-position: top center;
   background-size: cover;
 }
-
+.header{
+  color: #ffffffff
+}
 .header h4 {
   color: #da1e4e;
   font-weight: 700;
