@@ -15,7 +15,10 @@ body {
 }
 .header{
   color: #ffffffff
-  display: block;
+  padding: 60px;
+  text-align: center;
+  background: #00000000
+  font-size: 30px;
 }
 .header h4 {
   color: #da1e4e;
