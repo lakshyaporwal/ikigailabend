@@ -15,6 +15,7 @@ body {
 }
 .header{
   color: #ffffffff
+  display: block;
 }
 .header h4 {
   color: #da1e4e;
